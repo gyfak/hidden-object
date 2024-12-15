@@ -1,0 +1,43 @@
+﻿{"objects": [
+
+{
+	"filename": "doggy",
+	"x":800,
+	"y":182,
+	"r": 0,
+	"sclX": 0.3,
+	"sclY": 0.3
+}
+,{
+	"filename": "doggy",
+	"x":170,
+	"y":240,
+	"r": 0,
+	"sclX": -0.4,
+	"sclY": 0.4
+}
+,{
+	"filename": "doggy",
+	"x":560,
+	"y":380,
+	"r": 0,
+	"sclX": -0.5,
+	"sclY": 0.5
+}
+,{
+	"filename": "doggy",
+	"x":212,
+	"y":632,
+	"r": 0,
+	"sclX": 0.73,
+	"sclY": 0.73
+}
+,{
+	"filename": "doggy",
+	"x":850,
+	"y":652,
+	"r": 0,
+	"sclX": 1,
+	"sclY": 1
+}]
+}
